@@ -1,7 +1,7 @@
 # Slot Machine
 You can place a bet for either 5 or 50 dollars and spin the wheel. Start off with $1000 and if you win, you earn 10 times your bet amount. Winning requires 3 matching images in the slot machine
 ## **Link to project:** https://kr-slot-machine.netlify.app/
-![slot machine](jwliMock.png)
+![slot machine](mySlot.png)
 
 ## How It's Made:
 **Tech used:** HTML, CSS, and JavaScript
